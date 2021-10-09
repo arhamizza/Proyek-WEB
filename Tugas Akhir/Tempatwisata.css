@@ -1,0 +1,35 @@
+
+
+
+body, html {
+    height: 100%;
+    margin: 0;
+  }
+
+
+h1 {
+    font-size: 72px;
+    background: linear-gradient(-20deg, #ff2846 0%, #6944ff 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+h2 {
+  font-size: 72px;
+  background: linear-gradient(-20deg, #551fd1 0%, #2fa543 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+            
+.bg {
+    
+    background-image: url("Baliwalpaper.jpg");
+  
+
+    height: auto; 
+  
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }

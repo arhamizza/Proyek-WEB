@@ -1,0 +1,58 @@
+html, body{
+    margin: 0;
+    padding: 0;
+  }
+section{
+    padding: 90px;
+    width: auto;
+    height: auto;
+    background-image: linear-gradient(-20deg, #ff2846 0%, #6944ff 100%);
+    text-align: center;
+    font-family: 'Qicksand',sans-serif;
+}
+
+ul {
+    margin-left: -50px;
+}
+.gambar_content2 li{
+    display: inline-block;
+}
+.main{
+    width: 700px;
+    height: 455px;
+    background-color: #fafafa;
+    margin: 0 auto;
+    padding-top: 20px;
+    border-radius: 10px;
+    border: 1px solid #eeeeee;
+}
+.img{
+    background-image: url(img/Arham.jpg);
+    background-color: #eaeaea;
+    background-size: cover;
+    border-radius: 100px;
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    border :1px solid #eaeaea;
+}
+.nama{
+    text-align: center;
+    font-size: 30px;
+    margin: 0;
+    font-weight: bold;
+    color : blue;
+}
+.text{
+    text-align: center;
+    font-size: 15px;
+    margin: 0;
+    color:red;
+}
+.penjelasan{
+    margin:0 auto;
+    padding-top: 20px;
+    width: 450px;
+    height: auto;
+    color: black;
+}
